@@ -47,7 +47,7 @@ Based on these data insights, the business should implement the following target
 ## 🛠️ Project Structure & Tech Stack
 * **Language:** Python
 * **Environment:** Jupyter Notebook
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+* **Libraries:** Pandas, Matplotlib, Seaborn
 
 ```text
 ├── images/                 # Visual exports (contract & payment charts)
