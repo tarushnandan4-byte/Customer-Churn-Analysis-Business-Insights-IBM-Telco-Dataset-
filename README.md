@@ -54,3 +54,17 @@ Based on these data insights, the business should implement the following target
 ├── notebooks/              # Complete EDA and analysis notebook
 ├── README.md               # Executive business summary
 *Developed as part of a professional data analysis portfolio.*
+---
+```
+
+## 📄 License & Usage Terms
+
+
+**Copyright © 2026 Ramu. All Rights Reserved.**
+
+This repository and its contents (including code, charts, and text analysis) are provided **strictly for viewing purposes only** as part of my professional recruitment and evaluation process. 
+
+* **No Commercial Use:** You may not use this material for any commercial purposes.
+* **No Modification:** You may not alter, transform, or build upon this work.
+* **No Copying or Redistribution:** You may not copy, mirror, or redistribute these files without explicit written permission.
+* **No Claim of Ownership:** All intellectual property rights remain exclusively with the author.
