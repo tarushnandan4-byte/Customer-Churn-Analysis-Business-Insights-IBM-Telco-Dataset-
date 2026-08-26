@@ -17,12 +17,12 @@ The objective of this project was to analyze historical customer data from the *
 ### 1. The Contract Trap (Structural Risk)
 * **The Finding:** Month-to-month subscribers experience an alarming **42.7% churn rate**, whereas customers on two-year agreements exhibit near-total retention (**2.8% churn**).
 * **Business Impact:** The business is heavily over-reliant on short-term commitments that act as a revolving door for customers, failing to build long-term loyalty hooks.
-![Customer Churn Distribution by Contract Type](imagescontractchurn.png)
+![Customer Churn Distribution by Contract Type](images/imagescontractchurn.png)
 
 ### 2. Billing & Payment Friction
 * **The Finding:** Customers paying via **Electronic Check** churn at **45.3%**, more than double the rate observed across automated payment channels (Credit Card or Bank Transfer).
 * **Business Impact:** Manual payment processes introduce monthly friction and drop-off points, whereas auto-pay builds passive, sticky customer habits.
-![Customer Churn Distribution by Payment Method](imagespaymentchurn.png)
+![Customer Churn Distribution by Payment Method](images/imagespaymentchurn.png)
 
 ### 3. Financial Pressure & Spend Sensitivity
 * **The Finding:** Churned customers carry a significantly higher mean monthly charge (**$74.44**) compared to retained customers (**$61.27**).
